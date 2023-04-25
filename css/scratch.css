@@ -123,6 +123,19 @@ a:hover {
     text-decoration: underline;
 }
 
+.cook {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+.large {
+    font-size-adjust: none;
+}
+
+.varied {
+    text-shadow: #6c757d;
+}
+
 
 
 
