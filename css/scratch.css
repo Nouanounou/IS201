@@ -37,7 +37,8 @@ body {
     bottom: 39px;
     z-index: 1;
     padding-top: 40px;
-    /* border-right: solid 1px #555555; */
+    border-right: solid 1px #555555;
+} */
 
 .mainbody{
     top: 200px;
@@ -47,14 +48,14 @@ body {
     padding-right: 5px;
 }
 
-/* .rightmenu{
+.rightmenu{
     top: 200px;
     right: 5px;
     width:100px;
     bottom: 39px; 
-    /* border-left: solid 1px #555555; */
-    /* padding-left: 5px;
-} */ */
+    border-left: solid 1px #555555; 
+    padding-left: 5px;
+} 
 
 .footer{
     bottom: 5px;
@@ -134,6 +135,13 @@ a:hover {
 
 .varied {
     text-shadow: #6c757d;
+}
+
+.footer {
+    padding-bottom: 5px;
+    padding-left: 1px ;
+    padding-right: 1px;
+    padding-top: 1px
 }
 
 
