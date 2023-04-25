@@ -1,0 +1,131 @@
+header.masthead {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+  }
+
+.emphasizedText{
+    color: rgb(161, 26, 26);
+}
+
+body {
+    background-color: #d6bd68cb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    /* background-color: black; */
+    /* color: white */
+    /* line-height 100px; */
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+}
+
+/* .leftmenu{
+    top:200px;
+    left: 5px;
+    width:100px;
+    bottom: 39px;
+    z-index: 1;
+    padding-top: 40px;
+    /* border-right: solid 1px #555555; */
+
+.mainbody{
+    top: 200px;
+    left: 5px;
+    right: 5px;
+    bottom: 39px;
+    padding-right: 5px;
+}
+
+/* .rightmenu{
+    top: 200px;
+    right: 5px;
+    width:100px;
+    bottom: 39px; 
+    /* border-left: solid 1px #555555; */
+    /* padding-left: 5px;
+} */ */
+
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8px;
+    /* color: black; */
+    text-align: center;
+    padding-top: 15px;
+    /* position: fixed; */
+    padding-top:15px;
+    line-height:15px;
+    /* background-color: blue; */
+    /* color: white; */
+}
+
+img {
+    display: block;
+    margin-left: 5px;
+    margin-right: auto;
+    width: 50%;
+}
+
+nav{
+    background-color: rgba(197, 142, 40, 0.822);
+    padding:10px;
+    overflow:hidden;
+}
+
+nav a{
+    float:left;
+    color: black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: normal;
+    
+}
+
+nav a:hover{
+    background-color: #754e05;
+}
+
+.bucket {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 42px;
+}
+
+a {color:rgb(161, 26, 26);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size:18px;
+}
+
+.looking {
+    font-weight: bold ;
+    color: rgb(0, 0, 0);
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
